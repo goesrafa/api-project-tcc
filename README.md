@@ -11,7 +11,7 @@
 	- modelo das tabelas do Sequelize
 - controller
 	- lógica da aplicação
-# no diretório libs/config
+# no diretório libs/config.js
   Está a configuração do banco de dados
   como senha e nome do banco, a tabela
   é criada automáticamente pelo Sequelize
